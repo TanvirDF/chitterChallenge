@@ -1,19 +1,13 @@
 Chitter Challenge
 =================
 
-* Feel free to use Google, your notes, books, etc. but work on your own
-* If you refer to the solution of another coach or trainee, please put a link to that in your README
-* If you have a partial solution, **still check in a partial solution**
-* You must submit your work by 9:30am Monday morning
+It is a full-stack react project completed during my 12 weeks of training at Digital Futures. 
+
 
 Challenge:
 -------
 
-As usual please start by forking this repo.
-
-We are going to write a small twitter clone that will allow users to post messages to a public wall.
-
-Good luck and let the chitter begin!
+Write a small twitter clone that will allow users to post messages to a public wall.
 
 Features:
 -------
@@ -65,3 +59,12 @@ As a trainee
 In order to start a conversation as a DFA trainee Software Engineer
 I want to reply to a peep from another trainee.
 ```
+## Completed project preview:
+
+<img src='https://github.com/user-attachments/assets/683750b7-732c-42a1-a6cc-3fe40defe62c' alt='PeepMainPage' width='500' height='600'/>
+<img src='https://github.com/user-attachments/assets/e5ce2aca-2ca9-4de0-8149-02ef77ee4e87' alt='SignUp' width='500' height='600'/>
+<img src='https://github.com/user-attachments/assets/5549287c-baf4-4fea-9a92-72bbf9d781d6' alt='Login' width='500' height='600'/>
+<img src='https://github.com/user-attachments/assets/d5f4e63c-dbba-4833-8582-655ab620bd73' alt='UserLoggedIn' width='500' height='600'/>
+
+
+
